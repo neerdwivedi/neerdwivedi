@@ -1,5 +1,5 @@
-
 <div align="center">
+
 
 # Hi, I'm Neer Dwivedi 👋
 
@@ -9,8 +9,9 @@ I build AI-powered applications that go beyond notebooks — designed, deployed,
 
 📍 Delhi NCR, India  ·  🎯 Open to on-site **AI/ML & Agentic AI internships** in Gurugram (3–6 months)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/neerd)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](neer.dwivedi03@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neerd/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](neer.dwivedi03.com)
+
 </div>
 
 ---
@@ -20,7 +21,6 @@ I build AI-powered applications that go beyond notebooks — designed, deployed,
 - 🎓 **BSc Data Science & AI** — Christ University, Delhi NCR (2024–2028)
 - 🎓 **BSc Data Science & AI (Online)** — IIT Guwahati (2024–2028)
 - 💼 **AI/ML Intern** — Infoity Technologies (May – July 2026)
-- 🏗️ Solo developer on **ExpenseOS**, part of the Infoity B2B SaaS platform for Indian SMEs
 - ✍️ Researching AI-agent failures and the philosophy of technology
 - 📚 Writing **ML From Scratch** — a 20-part series building ML from `y = wx + b` up to a neural network
 
@@ -32,7 +32,7 @@ I build AI-powered applications that go beyond notebooks — designed, deployed,
 |---|---|---|
 | **TerminAI** · *Intel Unnati Program* | AI terminal wrapper that detects, classifies and suggests fixes for command-line errors | Python, OpenAI / Gemini APIs, llama-cpp, Rich |
 | **Credit Review Report Generator** | Generates structured credit review reports from financial PDFs using LLMs | Streamlit, pdfplumber, Gemini File API, Hugging Face Spaces |
-| **ExpenseOS** · *Infoity* | Expense management SaaS for Indian SMEs (PWA-first, multi-tenant) | Next.js, Supabase, Postgres RLS, Better Auth, Node |
+| **[Neural Deep Hedging](https://github.com/neerdwivedi/neural-deep-hedging)** | Neural network that learns hedging strategies for derivatives directly from simulated market data (deep hedging) | Python, Neural Networks |
 | **[ML From Scratch](https://github.com/neerdwivedi/ml-from-scratch)** | Companion code for my LinkedIn series — ML fundamentals implemented from first principles | Python, NumPy |
 
 ---
@@ -49,7 +49,7 @@ I build AI-powered applications that go beyond notebooks — designed, deployed,
 ## 📄 Research
 
 - **The Severity Inversion** — *Why the worst real-world AI-agent failures are the least studied* (in progress)
-- Work on **AI moral agency** in the philosophy of technology
+
 
 ---
 
