@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <div align="center">
 
@@ -12,8 +11,8 @@ I build AI-powered applications that go beyond notebooks — designed, deployed,
 
 📍 Delhi NCR, India  ·  🎯 Open to on-site **AI/ML & Agentic AI internships** in Gurugram (3–6 months)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/neerd)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](neer.dwivedi03@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readdotcv&logoColor=white)](YOUR-RESUME-LINK)
 
 </div>
