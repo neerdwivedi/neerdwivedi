@@ -1,8 +1,6 @@
 
 <div align="center">
 
-<img src="./photo.png" alt="Neer Dwivedi" width="160" />
-
 # Hi, I'm Neer Dwivedi 👋
 
 **Backend & Applied AI Engineer · Python · TypeScript · Node.js · SQL**
@@ -13,8 +11,6 @@ I build AI-powered applications that go beyond notebooks — designed, deployed,
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/neerd)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](neer.dwivedi03@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readdotcv&logoColor=white)](YOUR-RESUME-LINK)
-
 </div>
 
 ---
